@@ -24,3 +24,9 @@
 Mrinalummadising/Mrinalummadising is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+### 📫 &nbsp; How to reach me:
+
+
+<a href="https://www.linkedin.com/in/mrinal-ummadising-08a82b156/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+<a href="mrinalummadising@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
