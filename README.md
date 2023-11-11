@@ -1,3 +1,22 @@
+![image](https://user-images.githubusercontent.com/56738141/186486128-a67ee896-647f-4a1e-902d-30961b2b5c21.png) 
+
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+class Profile:
+
+    def __init__(self):
+        self.name = "Ummadising Mrinal"
+        self.role = "BTech Student in Electronics and communication Engineering"
+        self.language_spoken = ["en_US"]
+
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find interesting my profile :)")
+
+
+me = Profile()
+me.say_hi()
+
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
