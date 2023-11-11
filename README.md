@@ -1,21 +1,9 @@
+# 👋 Hey there, I'm a Frontend Web Developer Engineer in NxtWave Technologies!
+
 ![image](https://user-images.githubusercontent.com/56738141/186486128-a67ee896-647f-4a1e-902d-30961b2b5c21.png) 
 
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-
-class Profile:
-
-    def __init__(self):
-        self.name = "Ummadising Mrinal"
-        self.role = "BTech Student in Electronics and communication Engineering"
-        self.language_spoken = ["en_US"]
-
-    def say_hi(self):
-        print("Thanks for dropping by, hope you find interesting my profile :)")
 
 
-me = Profile()
-me.say_hi()
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -47,4 +35,5 @@ You can click the Preview link to take a look at your changes.
 ### 📫 &nbsp; How to reach me:
 
 
-<a href="https://www.linkedin.com/in/mrinal-ummadising-08a82b156/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+<!--<a href="https://www.linkedin.com/in/mrinal-ummadising-08a82b156/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;-->
+Connect on [LinkedIn](https://www.linkedin.com/in/mrinal-ummadising-08a82b156/) or drop on [email](mrinalummadising@gmail.com).
