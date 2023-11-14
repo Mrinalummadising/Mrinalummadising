@@ -20,9 +20,9 @@
 
 
 - 👋 Hi, I’m @Mrinalummadising
-- 👀 I’m interested in ...FUll Stack Web development
-- 🌱 I’m currently learning ...Node.js 
-- 💞️ I’m looking to collaborate on ...Web Developement
+- 👀 I’m interested in ...FUll Stack Web development, Data Analyst
+- 🌱 I’m currently learning ...React.js 
+- 💞️ I’m looking to collaborate on ...Web Developement, Data science
 - 📫 How to reach me through ....@Linkedln
 - #WebDeveloper #WebScraping #TechEnthusiastic #PythonDeveloper
 #MySQL #ReactJS
