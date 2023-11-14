@@ -20,7 +20,7 @@
 
 
 - 👋 Hi, I’m @Mrinalummadising
-- 👀 I’m interested in ...FUll Stack Web development, Data Analyst
+- 👀 I’m interested in ...Full Stack Web development, Data Analyst
 - 🌱 I’m currently learning ...React.js 
 - 💞️ I’m looking to collaborate on ...Web Developement, Data science
 - 📫 How to reach me through ....@Linkedln
