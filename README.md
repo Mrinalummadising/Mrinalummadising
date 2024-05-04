@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm a Frontend Web Developer Engineer in NxtWave Technologies Private Limited!
+# 👋 Hey there, I'm a Frontend Web Developer in NxtWave Technologies Private Limited!
 
 ![image](https://user-images.githubusercontent.com/56738141/186486128-a67ee896-647f-4a1e-902d-30961b2b5c21.png) 
 
