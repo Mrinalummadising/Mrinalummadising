@@ -21,12 +21,12 @@
 
 
 - 👋 Hi, I’m @Mrinalummadising
-- 👀 I’m interested in ...Full Stack Web development, Data Analyst
-- 🌱 I’m currently learning ...React.js 
-- 💞️ I’m looking to collaborate on ...Web Developement, Data science
+- 👀 I’m interested in ...Full Stack developer, Frontend developer, backend developer 
+- 🌱 I’m currently learning ...Next.js 
+- 💞️ I’m looking to collaborate on ...Web Developement,Full stack developer 
 - 📫 How to reach me through ....@Linkedln
 - #WebDeveloper #WebScraping #TechEnthusiastic #PythonDeveloper
-#MySQL #ReactJS
+#MySQL #ReactJS #Frontend # backend 
 
 <!---
 Mrinalummadising/Mrinalummadising is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
