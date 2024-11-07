@@ -2,7 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/56738141/186486128-a67ee896-647f-4a1e-902d-30961b2b5c21.png) 
 
-<!--[![](https://visitcount.itsvg.in/api?id=mrinal&label=Profile%20Views&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in) -->
+[![](https://visitcount.itsvg.in/api?id=mrinal&label=Profile%20Views&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in) 
 
 
 ### 🛠 &nbsp;Tech Stack
