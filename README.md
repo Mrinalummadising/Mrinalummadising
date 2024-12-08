@@ -4,6 +4,13 @@
 
 [![](https://visitcount.itsvg.in/api?id=mrinal&label=Profile%20Views&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in) 
 
+### 💻 Workspace Specs
+![Nvidia](https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white)&nbsp;
+![Intel](https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white)&nbsp;
+
+### Sounds
+![Shazam](https://img.shields.io/badge/Shazam-0088FF?style=for-the-badge&logo=Shazam&logoColor=white)&nbsp;
+
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -13,6 +20,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;\
