@@ -4,12 +4,10 @@
 
 [![](https://visitcount.itsvg.in/api?id=mrinal&label=Profile%20Views&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in) 
 
+
 ### 💻 Workspace Specs
 ![Nvidia](https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white)&nbsp;
 ![Intel](https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white)&nbsp;
-
-### Sounds
-![Shazam](https://img.shields.io/badge/Shazam-0088FF?style=for-the-badge&logo=Shazam&logoColor=white)&nbsp;
 
 
 ### 🛠 &nbsp;Tech Stack
